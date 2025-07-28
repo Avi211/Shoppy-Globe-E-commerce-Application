@@ -22,3 +22,5 @@ ShoppyGlobe is a simple e-commerce application built using **React**, **Redux To
   ## Start the app
   ```bash
    npm run dev
+
+![ShoppyGlobe homepage](https://github.com/user-attachments/assets/bcd439ab-1397-473f-aa22-79ebb86cc9bf)
